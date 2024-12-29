@@ -24,7 +24,7 @@ Este projeto é projetado exclusivamente para desktops. A funcionalidade respons
 ---
 
 ## 📸 Preview
-![Capturar](https://github.com/user-attachments/assets/c9bb5282-73d8-4d88-8cac-a43a982ad852)
+![Capturar](https://github.com/user-attachments/assets/2463c222-5284-472d-918c-aa996f824e59)
 
 ---
 
