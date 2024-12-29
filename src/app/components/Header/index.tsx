@@ -54,13 +54,6 @@ export default function Header() {
                     alt="Avatar"
                     className="hidden xl:block"
                 />
-
-                <Image
-                    src='hug.svg'
-                    width={40}
-                    height={40}
-                    alt="hamburger"
-                />
             </GridContainer>
         </header>
     );
